@@ -5,6 +5,14 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ignore
+  - Camera0
+  - Camera1
+  - Camera2
+  - Camera3
+  - Camera4
+  - Camera5
+  - Camera6
+  - Camera7
   layers:
   - Default
   - TransparentFX
